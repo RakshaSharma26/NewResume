@@ -10,11 +10,8 @@ html {
     line-height: 1.5;
 }
 
-body {
-    /* padding: 1rem 1rem; */
-    /* background: linear-gradient(to right, #B7BECE, #B7BECE 50%, #E5E6E1 50%, #E5E6E1); */
-    /* background: linear-gradient(#dfe0db, #dfe0db 50%, #fcebe1 50%, #fcebe1); */
-    /*   background: linear-gradient (#888, #888 50%, salmon 50%, salmon); */
+.res{
+    padding: 2rem;
 }
 
 h1 {
@@ -40,7 +37,7 @@ h3 {
 
 h4{
     text-transform: uppercase;
-    color: gray;
+    color: rgb(82, 147, 233);
 }
 
 p {
@@ -137,9 +134,10 @@ ul {
     display: grid;
     grid-template-columns: 40% 1fr;
     grid-gap: 4rem;
+    /* border: 1px solid blue; */
     /* background-color: #ECE9E1; */
     background-color: white;
-    padding: 3rem;
+    padding: 2rem;
     max-width: 1500px;
     margin: auto;
 }
