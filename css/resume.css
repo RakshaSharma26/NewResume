@@ -11,7 +11,7 @@ html {
 }
 
 .res{
-    padding: 2rem;
+    padding: 3rem;
 }
 
 h1 {
@@ -137,7 +137,7 @@ ul {
     /* border: 1px solid blue; */
     /* background-color: #ECE9E1; */
     background-color: white;
-    padding: 2rem;
+    padding: 3rem;
     max-width: 1500px;
     margin: auto;
 }
